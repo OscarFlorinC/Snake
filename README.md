@@ -1,5 +1,8 @@
 # _**- Proyecto "Juego Snake"**_
 
+### Este proyecto es un programa donde se pone en practica los conocimientos de POO y herencia en python es similar al videojuego de Snake
+### Si pudieran apoyarme en mejorar mi código ya que el tiene un error en el contador.
+
 
 |  | Descripción |
 |-----:|---------------|
